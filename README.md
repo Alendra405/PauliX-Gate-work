@@ -44,7 +44,7 @@ pip install qiskit qiskit-aer matplotlib
 
 Run the script:
 ```bash
-python pauli_x_demo.py
+python X.py
 ```
 
 Expected output: A histogram displaying near-100% probability for the |1⟩ state, confirming successful application of the Pauli-X gate.
